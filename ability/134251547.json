@@ -824,14 +824,20 @@
                                                                             "args_list": [], 
                                                                             "sub_type": "CUR_ABILITY"
                                                                         }, 
-                                                                        null, 
+                                                                        {
+                                                                            "arg_type": 100000, 
+                                                                            "args_list": [
+                                                                                2.0
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }, 
                                                                         null, 
                                                                         null
                                                                     ], 
                                                                     "op_arg_enable": [
                                                                         true, 
                                                                         true, 
-                                                                        false, 
+                                                                        true, 
                                                                         false, 
                                                                         false
                                                                     ]

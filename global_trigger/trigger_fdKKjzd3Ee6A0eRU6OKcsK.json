@@ -71,6 +71,129 @@
             "trigger_name": "\u955c\u5934\u540c\u6b65", 
             "valid": true
         }, 
+        "683192417": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "len", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "Util:getTableLength(args[1])"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg": [
+                                {
+                                    "arg_type": 100011, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "TABLE", 
+                                                "\u8868", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": "VARIABLE"
+                                }, 
+                                null, 
+                                null, 
+                                null, 
+                                null
+                            ], 
+                            "op_arg_enable": [
+                                true, 
+                                false, 
+                                false, 
+                                false, 
+                                false
+                            ], 
+                            "sub_type": "Eval_Lua_INTEGER"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 683192417000004, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": 400342, 
+                    "args_list": [
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "len", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 6
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 683192417000003, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_category": "t_function", 
+            "func_comment": "", 
+            "func_des": "\u83b7\u53d6\u8868{\u8868}\u7684\u5b9e\u9645\u957f\u5ea6\uff0c\u907f\u514d\u7a7a\u6d1e\u5f71\u54cd", 
+            "func_id": "5df598b03aa711eeb710e454e8e29cb0", 
+            "func_name": "\u83b7\u53d6\u8868\u5b9e\u9645\u957f\u5ea6", 
+            "func_param_list": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u8868", 
+                        true
+                    ]
+                }
+            ], 
+            "func_return": true, 
+            "func_rtv_name_list": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u8868\u957f", 
+                        "INTEGER"
+                    ]
+                }
+            ], 
+            "group_id": "fdKKjzd3Ee6A0eRU6OKcsK", 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "trigger_id": 683192417, 
+            "trigger_name": "\u83b7\u53d6\u8868\u5b9e\u9645\u957f\u5ea6", 
+            "valid": true
+        }, 
         "1291821114": {
             "action": [
                 [
@@ -691,6 +814,13 @@
                 "items": [
                     1478930489, 
                     "\u5b57\u7b26\u4e32\u5206\u5272"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    683192417, 
+                    "\u83b7\u53d6\u8868\u5b9e\u9645\u957f\u5ea6"
                 ]
             }, 
             {

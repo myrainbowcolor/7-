@@ -49,7 +49,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 11104259000047, 
-                    "enable": true
+                    "enable": false
                 }, 
                 {
                     "action_type": "STOP_ANIMATION", 
@@ -914,7 +914,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 662736897000060, 
-                    "enable": true
+                    "enable": false
                 }
             ], 
             "call_enabled": true, 

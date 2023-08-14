@@ -1848,13 +1848,7 @@
                         {
                             "arg_type": 100177, 
                             "args_list": [
-                                {
-                                    "arg_type": 100009, 
-                                    "args_list": [
-                                        10001
-                                    ], 
-                                    "sub_type": 1
-                                }, 
+                                null, 
                                 {
                                     "arg_type": 100000, 
                                     "args_list": [

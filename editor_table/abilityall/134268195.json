@@ -1,4 +1,7 @@
 {
+    "1": 1, 
+    "5": 1, 
+    "6": 0, 
     "_custom_": true, 
     "_ref_": 134268195, 
     "ability_break_cast_range": {
@@ -12,7 +15,7 @@
     "ability_cast_range": {
         "__tuple__": true, 
         "items": [
-            "10.0"
+            "8.0"
         ]
     }, 
     "ability_cast_type": 2, 

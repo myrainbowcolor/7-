@@ -1,0 +1,82 @@
+{
+    "b": [], 
+    "c": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "9l8zzyFiEe6ChORU6OKcsB", 
+                {
+                    "default": 10.0, 
+                    "desc": "\u6bcf\u79d2\u635f\u5931\u8840\u91cf\u767e\u5206\u6bd4", 
+                    "desc_bit": 1, 
+                    "key": "9l8zzyFiEe6ChORU6OKcsB", 
+                    "maximun": 100.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "yd8lISd3Ee6TguRU6OKcsL", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u53d8\u8eab\u65f6\u95f4", 
+                    "desc_bit": 1, 
+                    "key": "yd8lISd3Ee6TguRU6OKcsL", 
+                    "maximun": 10.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }
+    ], 
+    "p": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "strength", 
+                {
+                    "d": "\u529b\u91cf", 
+                    "k": "strength", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "agility", 
+                {
+                    "d": "\u654f\u6377", 
+                    "k": "agility", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "intelligence", 
+                {
+                    "d": "\u667a\u529b", 
+                    "k": "intelligence", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "main", 
+                {
+                    "d": "\u4e3b\u5c5e\u6027", 
+                    "k": "main", 
+                    "m": []
+                }
+            ]
+        }
+    ], 
+    "ps": 1
+}

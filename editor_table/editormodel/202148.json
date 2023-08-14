@@ -1,0 +1,105 @@
+{
+    "describe": -117360391, 
+    "editor_res": false, 
+    "key": 202148, 
+    "map_name": "Festival", 
+    "model_id": 508005, 
+    "name": 1585716207, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Modern", 
+            "code_Doomsday", 
+            "code_Monster", 
+            "code_Mob", 
+            "code_Bat", 
+            "code_Flying", 
+            "code_Skeleton", 
+            "code_Halloween", 
+            "code_White"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/202148", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 1.0, 
+    "socket_info": {
+        "attack1": {
+            "__tuple__": true, 
+            "items": [
+                "attack1", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "buff": {
+            "__tuple__": true, 
+            "items": [
+                "buff", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "origin": {
+            "__tuple__": true, 
+            "items": [
+                "origin", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "top": {
+            "__tuple__": true, 
+            "items": [
+                "top", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "ui_hp": {
+            "__tuple__": true, 
+            "items": [
+                "ui_hp", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "", 
+    "uid": "editor_model_202148"
+}

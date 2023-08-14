@@ -1,0 +1,102 @@
+{
+    "describe": -1424918556, 
+    "editor_res": false, 
+    "key": 204987, 
+    "map_name": "S2", 
+    "model_id": 250094, 
+    "name": 1674142280, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Magical", 
+            "code_Middle ages", 
+            "code_Statues", 
+            "code_Black", 
+            "code_Stone", 
+            "code_Stone carving"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/204987", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 1.0, 
+    "socket_info": {
+        "attack1": {
+            "__tuple__": true, 
+            "items": [
+                "attack1", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "buff": {
+            "__tuple__": true, 
+            "items": [
+                "buff", 
+                "Scene Root", 
+                0.23909059166908264, 
+                1.0190701484680176, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "origin": {
+            "__tuple__": true, 
+            "items": [
+                "origin", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "top": {
+            "__tuple__": true, 
+            "items": [
+                "top", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "ui_hp": {
+            "__tuple__": true, 
+            "items": [
+                "ui_hp", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_204987"
+}

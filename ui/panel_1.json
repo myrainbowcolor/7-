@@ -1,0 +1,54 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "rich_text_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0000610351562, 
+                    700.3125
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.00000317891439, 
+                    64.84375
+                ]
+            }, 
+            "type": 26, 
+            "uid": "cdbbde97-cb66-4fa1-bc81-96fcf5990b21"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "progress_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    938.363037109375, 
+                    865.9151000976562
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    48.87307484944661, 
+                    80.17732408311632
+                ]
+            }, 
+            "type": 5, 
+            "uid": "b5c15fc5-73cc-4ac1-9c37-7d08879c281c"
+        }
+    ], 
+    "name": "panel_1", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "panel_1", 
+    "visible": false, 
+    "zorder": 400
+}

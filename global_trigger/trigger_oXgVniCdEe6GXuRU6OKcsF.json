@@ -1,0 +1,379 @@
+{
+    "trigger_dict": {
+        "77205514": {
+            "action": [
+                {
+                    "action_type": "CHANGE_LOGIC_FPS", 
+                    "args_list": [
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100011, 
+                                    "args_list": [
+                                        3
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "logicFrame"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_INTEGER_TABLE_VAR_1D"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1975832578000008, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "TABLE", 
+                                        "table", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [], 
+                            "sub_type": "GET_NEW_TABLE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 77205514000053, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_TABLE_VALUE_1D", 
+                    "args_list": [
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "TABLE", 
+                                        "table", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                "0a13f5bf-ae0a-48e0-aa26-8cb8a5e4a422"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 77205514000026, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_TABLE_VALUE_1D", 
+                    "args_list": [
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                [
+                                    "TABLE", 
+                                    "table", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                2
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                "323f8318-6ff9-49a1-a4ab-aadc0bb4e048"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 77205514000029, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_TABLE_VALUE_1D", 
+                    "args_list": [
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                [
+                                    "TABLE", 
+                                    "table", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                "24856c96-fe0c-4f5c-b601-cf8f20c23da0"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 77205514000038, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "CALL_TRIGGER_FUNC", 
+                    "args_list": [
+                        {
+                            "arg_type": 100177, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100011, 
+                                    "args_list": [
+                                        [
+                                            "TABLE", 
+                                            "table", 
+                                            "local"
+                                        ]
+                                    ], 
+                                    "sub_type": "VARIABLE"
+                                }
+                            ], 
+                            "op_arg": [
+                                null
+                            ], 
+                            "op_arg_enable": [
+                                false
+                            ], 
+                            "sub_type": "7297c5e1377311eebce1e454e8e29cb0"
+                        }
+                    ], 
+                    "bp": false, 
+                    "call_rt_arg_idxes": [], 
+                    "element_id": 77205514000023, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "CALL_TRIGGER_FUNC", 
+                    "args_list": [
+                        {
+                            "arg_type": 100177, 
+                            "args_list": [], 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "b4a86b402a0a11eeaab5e454e8e29cb0"
+                        }
+                    ], 
+                    "bp": false, 
+                    "call_rt_arg_idxes": [], 
+                    "element_id": 77205514000014, 
+                    "enable": false
+                }, 
+                {
+                    "action_type": "CALL_TRIGGER_FUNC", 
+                    "args_list": [
+                        {
+                            "arg_type": 100177, 
+                            "args_list": [], 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "8ea252702a1011ee8617e454e8e29cb0"
+                        }
+                    ], 
+                    "bp": false, 
+                    "call_rt_arg_idxes": [], 
+                    "element_id": 77205514000019, 
+                    "enable": false
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 77205514000001, 
+                    "enable": true, 
+                    "event_type": "INIT_FINISHED"
+                }
+            ], 
+            "group_id": "oXgVniCdEe6GXuRU6OKcsF", 
+            "p_trigger_id": null, 
+            "trigger_id": 77205514, 
+            "trigger_name": "\u6e38\u620f\u521d\u59cb\u5316", 
+            "valid": true
+        }, 
+        "2023370763": {
+            "action": [
+                {
+                    "action_type": "SET_ROLE_MOUSE_LEFT_CLICK", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100048, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 77205514000004, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ROLE_MOUSE_MOVE_SELECT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100048, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 77205514000005, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ROLE_MOUSE_WHEEL", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100048, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 77205514000006, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "PLAYER_ADD_TO_GROUP", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "TRIGGER_PLAYER"
+                        }, 
+                        {
+                            "arg_type": 100027, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "PLAYER_GROUP", 
+                                        "PLAYERS"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 14
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2023370763000011, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 2023370763000002, 
+                    "enable": true, 
+                    "event_type": "ANY_ROLE_JOIN_GAME"
+                }
+            ], 
+            "group_id": 0, 
+            "p_trigger_id": null, 
+            "trigger_id": 2023370763, 
+            "trigger_name": "\u73a9\u5bb6\u521d\u59cb\u5316", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    77205514, 
+                    "\u6e38\u620f\u521d\u59cb\u5316"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    2023370763, 
+                    "\u73a9\u5bb6\u521d\u59cb\u5316"
+                ]
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "oXgVniCdEe6GXuRU6OKcsF", 
+        "name": "\u521d\u59cb\u5316"
+    }
+}

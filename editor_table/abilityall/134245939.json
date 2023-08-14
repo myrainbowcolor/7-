@@ -1,0 +1,313 @@
+{
+    "0": 32, 
+    "1": 1, 
+    "5": 1, 
+    "6": 0, 
+    "100": 45.0, 
+    "102": 0, 
+    "104": 500, 
+    "107": 0, 
+    "108": 100, 
+    "_custom_": true, 
+    "_ref_": 134243450, 
+    "ability_break_cast_range": {
+        "__tuple__": true, 
+        "items": [
+            "50"
+        ]
+    }, 
+    "ability_bw_point": 0.0, 
+    "ability_cast_point": 0.0, 
+    "ability_cast_range": {
+        "__tuple__": true, 
+        "items": [
+            "10"
+        ]
+    }, 
+    "ability_cast_type": 2, 
+    "ability_channel_time": 0.5, 
+    "ability_cost": {
+        "__tuple__": true, 
+        "items": [
+            "0.0"
+        ]
+    }, 
+    "ability_damage": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "ability_damage_range": {
+        "__tuple__": true, 
+        "items": [
+            "6.0"
+        ]
+    }, 
+    "ability_hp_cost": {
+        "__tuple__": true, 
+        "items": [
+            "0"
+        ]
+    }, 
+    "ability_icon": 110729, 
+    "ability_max_level": 1, 
+    "ability_max_stack_count": {
+        "__tuple__": true, 
+        "items": [
+            "0"
+        ]
+    }, 
+    "ability_prepare_time": 0.0, 
+    "ability_stack_cd": {
+        "__tuple__": true, 
+        "items": [
+            "0"
+        ]
+    }, 
+    "arrow_length": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "arrow_width": {
+        "__tuple__": true, 
+        "items": [
+            "2"
+        ]
+    }, 
+    "auto_pick": true, 
+    "bs_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "bs_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "build_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "build_rotate": 0, 
+    "building_attack_range_sfx": 101492, 
+    "bw_ignore_ability_command": false, 
+    "bw_ignore_move_command": false, 
+    "bw_move_interrupt": true, 
+    "camp_priority_enemy": 1, 
+    "camp_priority_friend": 1, 
+    "camp_priority_neutral": 1, 
+    "camp_priority_self": 1, 
+    "can_bs_interrupt": false, 
+    "can_cache": true, 
+    "can_cast_interrupt": false, 
+    "can_cast_when_hp_insufficient": false, 
+    "can_cost_hp": false, 
+    "can_interrupt_others": true, 
+    "can_prepare_interrupt": false, 
+    "can_ps_interrupt": false, 
+    "cast_ignore_ability_command": true, 
+    "cast_ignore_move_command": true, 
+    "cast_move_interrupt": false, 
+    "circle_radius": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "cold_down_time": {
+        "__tuple__": true, 
+        "items": [
+            "0.2"
+        ]
+    }, 
+    "collection_animation": "", 
+    "collection_animation_loop": true, 
+    "collection_continuously": true, 
+    "collection_destructible_tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cost_hp_can_die": false, 
+    "csp_ignore_ability_command": false, 
+    "csp_ignore_move_command": false, 
+    "csp_move_interrupt": true, 
+    "cst_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cst_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "desc": 831678706, 
+    "description": 831678706, 
+    "end_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "end_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "filter_condition_camp": 5, 
+    "filter_condition_type": 7, 
+    "filter_item_tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "filter_unit_tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "hit_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "hit_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "influenced_by_cd_reduce": true, 
+    "influenced_by_move": false, 
+    "is_autocast": false, 
+    "is_charge_ability": false, 
+    "is_immediate": false, 
+    "is_meele": false, 
+    "key": 134245939, 
+    "kv": {
+        "curContinueUseCount": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "curContinueUseCount", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 2, 
+            "type": 2, 
+            "value": 0
+        }, 
+        "isInvincible": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 4, 
+            "key": "isInvincible", 
+            "prop_cls": "PBool", 
+            "remark": "", 
+            "sort": 1, 
+            "type": 3, 
+            "value": true
+        }, 
+        "maxContinueUseCount": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "maxContinueUseCount", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 3, 
+            "type": 2, 
+            "value": 2
+        }, 
+        "moveSpeed": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "moveSpeed", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 0, 
+            "type": 1, 
+            "value": 2000.0
+        }, 
+        "\u5b57\u6bb5\u8bf4\u660e": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 61, 
+            "key": "\u5b57\u6bb5\u8bf4\u660e", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 4, 
+            "type": 35, 
+            "value": "\u9e26\u7fbd"
+        }
+    }, 
+    "magicbook_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "name": 1679295516, 
+    "need_turn_to_target": false, 
+    "pick_count": 1, 
+    "player_props_cost": [], 
+    "precondition_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "prepare_ignore_ability_command": true, 
+    "prepare_ignore_move_command": true, 
+    "prepare_move_interrupt": false, 
+    "ps_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "ps_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_immediately_out_of_range": false, 
+    "required_level": {
+        "formula": "", 
+        "required_levels": {
+            "__tuple__": true, 
+            "items": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5
+            ]
+        }
+    }, 
+    "sector_angle": {
+        "__tuple__": true, 
+        "items": [
+            "0"
+        ]
+    }, 
+    "sector_radian": 2, 
+    "sector_radius": {
+        "__tuple__": true, 
+        "items": [
+            "10"
+        ]
+    }, 
+    "show_building_attack_range": false, 
+    "sight_type": 0, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "sp_count_down": false, 
+    "sp_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "sp_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "suffix": "SPACE", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "target_attribute": 0, 
+    "type_priority_building": 1, 
+    "type_priority_creature": 1, 
+    "type_priority_destructible": 1, 
+    "type_priority_hero": 1, 
+    "type_priority_item": 1, 
+    "uid": "134245939"
+}

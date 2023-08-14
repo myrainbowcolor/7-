@@ -1,0 +1,114 @@
+{
+    "describe": -1208625298, 
+    "editor_res": false, 
+    "key": 205129, 
+    "map_name": "x1", 
+    "model_id": 5041131, 
+    "name": 397529188, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Hero", 
+            "code_Chinese style", 
+            "code_Male", 
+            "code_Adult", 
+            "code_Strong", 
+            "code_Mage", 
+            "code_Staff", 
+            "code_Black"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/205129", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 1.0, 
+    "socket_info": {
+        "attack1": {
+            "__tuple__": true, 
+            "items": [
+                "attack1", 
+                "Scene Root", 
+                0.0, 
+                -1.078446626663208, 
+                0.0
+            ]
+        }, 
+        "buff": {
+            "__tuple__": true, 
+            "items": [
+                "buff", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hit": {
+            "__tuple__": true, 
+            "items": [
+                "hit", 
+                "b_LeftHand", 
+                1.0205762386322021, 
+                0.8838410377502441, 
+                0.9263740181922913
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "Scene Root", 
+                -1.2825778722763062, 
+                4.1940999031066895, 
+                0.619295597076416
+            ]
+        }, 
+        "origin": {
+            "__tuple__": true, 
+            "items": [
+                "origin", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "top": {
+            "__tuple__": true, 
+            "items": [
+                "top", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "ui_hp": {
+            "__tuple__": true, 
+            "items": [
+                "ui_hp", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_205129"
+}

@@ -1,0 +1,469 @@
+{
+    "0": 31, 
+    "1": 1, 
+    "5": 1, 
+    "6": 0, 
+    "102": 0, 
+    "104": 500, 
+    "107": 0, 
+    "108": 100, 
+    "_custom_": true, 
+    "_ref_": 134236126, 
+    "ability_break_cast_range": {
+        "__tuple__": true, 
+        "items": [
+            "50"
+        ]
+    }, 
+    "ability_bw_point": 0.0, 
+    "ability_cast_point": 0.0, 
+    "ability_cast_range": {
+        "__tuple__": true, 
+        "items": [
+            "15.0"
+        ]
+    }, 
+    "ability_cast_type": 2, 
+    "ability_channel_time": 0.35, 
+    "ability_cost": {
+        "__tuple__": true, 
+        "items": [
+            " 0"
+        ]
+    }, 
+    "ability_damage": {
+        "__tuple__": true, 
+        "items": [
+            " 0"
+        ]
+    }, 
+    "ability_damage_range": {
+        "__tuple__": true, 
+        "items": [
+            "(1200)/100"
+        ]
+    }, 
+    "ability_hp_cost": {
+        "__tuple__": true, 
+        "items": [
+            "0"
+        ]
+    }, 
+    "ability_icon": 106518, 
+    "ability_max_level": 1, 
+    "ability_max_stack_count": {
+        "__tuple__": true, 
+        "items": [
+            "0"
+        ]
+    }, 
+    "ability_prepare_time": 0.0, 
+    "ability_stack_cd": {
+        "__tuple__": true, 
+        "items": [
+            "0"
+        ]
+    }, 
+    "arrow_length": {
+        "__tuple__": true, 
+        "items": [
+            " (1500)/100"
+        ]
+    }, 
+    "arrow_width": {
+        "__tuple__": true, 
+        "items": [
+            " (200)/100"
+        ]
+    }, 
+    "auto_pick": false, 
+    "bs_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "bs_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "build_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "build_rotate": 0.0, 
+    "building_attack_range_sfx": 101492, 
+    "camp_priority_enemy": 1, 
+    "camp_priority_friend": 1, 
+    "camp_priority_neutral": 1, 
+    "camp_priority_self": 1, 
+    "can_bs_interrupt": true, 
+    "can_cache": true, 
+    "can_cast_interrupt": true, 
+    "can_cast_when_hp_insufficient": false, 
+    "can_cost_hp": false, 
+    "can_interrupt_others": true, 
+    "can_prepare_interrupt": false, 
+    "can_ps_interrupt": false, 
+    "circle_radius": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "cold_down_time": {
+        "__tuple__": true, 
+        "items": [
+            "0.2"
+        ]
+    }, 
+    "collection_animation": "", 
+    "collection_animation_loop": false, 
+    "collection_continuously": false, 
+    "collection_destructible_tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cost_hp_can_die": false, 
+    "cst_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cst_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "desc": 1274905861, 
+    "description": 1274905861, 
+    "end_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "end_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "filter_condition_camp": 5, 
+    "filter_condition_type": 5, 
+    "filter_item_tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "filter_unit_tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "hit_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "hit_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "influenced_by_cd_reduce": true, 
+    "influenced_by_move": false, 
+    "is_autocast": false, 
+    "is_charge_ability": false, 
+    "is_immediate": false, 
+    "is_meele": false, 
+    "key": 134231314, 
+    "kv": {
+        "accompanAreaDamage": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "accompanAreaDamage", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 10, 
+            "type": 1, 
+            "value": 200.0
+        }, 
+        "addPointCoefficient": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "addPointCoefficient", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 18, 
+            "type": 1, 
+            "value": 10.0
+        }, 
+        "addPointNumber": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "addPointNumber", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 17, 
+            "type": 2, 
+            "value": 1
+        }, 
+        "attackAccompanyDamage": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "attackAccompanyDamage", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 9, 
+            "type": 1, 
+            "value": 150.0
+        }, 
+        "attackAimDamage": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "attackAimDamage", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 8, 
+            "type": 1, 
+            "value": 150.0
+        }, 
+        "attackProjectile": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 31, 
+            "key": "attackProjectile", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 11, 
+            "type": 9, 
+            "value": 134226924
+        }, 
+        "bulletNumber": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "bulletNumber", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 13, 
+            "type": 2, 
+            "value": 1
+        }, 
+        "havaTagEffectId": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "havaTagEffectId", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 2, 
+            "type": 15, 
+            "value": 104060
+        }, 
+        "havaTagEffectId1": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "havaTagEffectId1", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 3, 
+            "type": 15, 
+            "value": 103222
+        }, 
+        "havaTagEffectId2": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "havaTagEffectId2", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 4, 
+            "type": 15, 
+            "value": 103665
+        }, 
+        "injuredDamage": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "injuredDamage", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 15, 
+            "type": 1, 
+            "value": 50.0
+        }, 
+        "injuredTime": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "injuredTime", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 16, 
+            "type": 1, 
+            "value": 5.0
+        }, 
+        "moveSpeed": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "moveSpeed", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 0, 
+            "type": 1, 
+            "value": 3000.0
+        }, 
+        "noHaveRagEffectId": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "noHaveRagEffectId", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 5, 
+            "type": 15, 
+            "value": 104875
+        }, 
+        "noHaveRagEffectId1": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "noHaveRagEffectId1", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 6, 
+            "type": 15, 
+            "value": 101571
+        }, 
+        "noHaveRagEffectId2": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "noHaveRagEffectId2", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 7, 
+            "type": 15, 
+            "value": 100814
+        }, 
+        "repelDistance": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "repelDistance", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 1, 
+            "type": 1, 
+            "value": 50.0
+        }, 
+        "repelSpeed": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "repelSpeed", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 12, 
+            "type": 1, 
+            "value": 2500.0
+        }, 
+        "roundMagic": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 46, 
+            "key": "roundMagic", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 14, 
+            "type": 8, 
+            "value": 134240623
+        }, 
+        "\u5b57\u6bb5\u8bf4\u660e": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 61, 
+            "key": "\u5b57\u6bb5\u8bf4\u660e", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 19, 
+            "type": 35, 
+            "value": " \u9e26\u5f71\u7a7f\u5fc3\u5f3a\u5316-\u5996"
+        }
+    }, 
+    "magicbook_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "name": 1896283962, 
+    "need_turn_to_target": false, 
+    "pick_count": 1, 
+    "player_props_cost": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "precondition_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "ps_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "ps_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_immediately_out_of_range": false, 
+    "required_level": {
+        "formula": "", 
+        "required_levels": {
+            "__tuple__": true, 
+            "items": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5
+            ]
+        }
+    }, 
+    "sector_angle": {
+        "__tuple__": true, 
+        "items": [
+            " 0 "
+        ]
+    }, 
+    "sector_radius": {
+        "__tuple__": true, 
+        "items": [
+            "10"
+        ]
+    }, 
+    "show_building_attack_range": false, 
+    "sight_type": 0, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "sp_count_down": false, 
+    "sp_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "sp_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "suffix": "M1", 
+    "tags": {
+        "__tuple__": true, 
+        "items": [
+            "\u7269\u54c1\u6280\u80fd"
+        ]
+    }, 
+    "target_attribute": 0, 
+    "type_priority_building": 1, 
+    "type_priority_creature": 1, 
+    "type_priority_destructible": 1, 
+    "type_priority_hero": 1, 
+    "type_priority_item": 1, 
+    "uid": "134231314"
+}

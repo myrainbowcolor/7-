@@ -1,0 +1,12 @@
+{
+    "editor_unit": [
+        "ACCOMPANY", 
+        "EXPOSING", 
+        "HERO", 
+        "NORMALMONSTER", 
+        "SCULPTURE"
+    ], 
+    "projectile_all": [
+        "TIMEBUFFER"
+    ]
+}

@@ -1,0 +1,1087 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Resource>
+	<Version>2</Version>
+	<SMaterialData>
+		<Root>
+			<Sub />
+			<Entity type="SMaterialData">
+				<name>_material</name>
+				<info>
+					<Layers count="33" ordered="true">
+						<Element index="0">
+							<LayerName>combo_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>ffffffff-0100-0000-0100-000047000000</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="1">
+							<LayerName>Yun_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>ceb66222-76f3-4518-a902-57c8798c9a53</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 5)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="2">
+							<LayerName>dimian_Bowen_submat</LayerName>
+							<ShaderName>Effect/Twisted</ShaderName>
+							<Parameters count="7" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>27486c01-797f-4367-89df-00f0da012c8a</Value>
+								</Element>
+								<Element index="1">
+									<Name>MaskTexture</Name>
+									<Value>c59d22da-53e8-4016-bfa1-0a9c4adf4dde</Value>
+								</Element>
+								<Element index="2">
+									<Name>TwistTexture</Name>
+									<Value>c360d786-0919-4ecc-bb97-8245176919fc</Value>
+								</Element>
+								<Element index="3">
+									<Name>TwistUVScolling</Name>
+									<Value>(5, 1, 0, 0)</Value>
+								</Element>
+								<Element index="4">
+									<Name>TwistStrength</Name>
+									<Value>(0, 0.4)</Value>
+								</Element>
+								<Element index="5">
+									<Name>ModulateColor</Name>
+									<Value>(4, 1, 1, 12)</Value>
+								</Element>
+								<Element index="6">
+									<Name>DiffuseUVScolling</Name>
+									<Value>(3, 1, 0, -1)</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="3">
+							<LayerName>dimian_Bowen01_submat</LayerName>
+							<ShaderName>Effect/Twisted</ShaderName>
+							<Parameters count="7" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>5ee7bb4c-278b-43da-a622-cb33fe99e348</Value>
+								</Element>
+								<Element index="1">
+									<Name>MaskTexture</Name>
+									<Value>2a9ce175-4a78-5527-a806-79231cfd495f</Value>
+								</Element>
+								<Element index="2">
+									<Name>TwistTexture</Name>
+									<Value>61c01e96-e64c-4540-9979-0ffce6a479e8</Value>
+								</Element>
+								<Element index="3">
+									<Name>TwistUVScolling</Name>
+									<Value>(5, 1, 0, 0)</Value>
+								</Element>
+								<Element index="4">
+									<Name>TwistStrength</Name>
+									<Value>(0, 0.4)</Value>
+								</Element>
+								<Element index="5">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 12)</Value>
+								</Element>
+								<Element index="6">
+									<Name>DiffuseUVScolling</Name>
+									<Value>(3, 1, 0, -1)</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="4">
+							<LayerName>fazhen_saoguangaaaa_submat</LayerName>
+							<ShaderName>Effect/Twisted</ShaderName>
+							<Parameters count="7" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>ef8b223f-8b88-523a-8aa2-81723e2710eb</Value>
+								</Element>
+								<Element index="1">
+									<Name>MaskTexture</Name>
+									<Value>70c892d6-5517-4f11-a7c2-c8140119fe4e</Value>
+								</Element>
+								<Element index="2">
+									<Name>TwistTexture</Name>
+									<Value>00000000-0000-0000-0000-000000000000</Value>
+								</Element>
+								<Element index="3">
+									<Name>TwistUVScolling</Name>
+									<Value>(1, 1, 0, 0)</Value>
+								</Element>
+								<Element index="4">
+									<Name>TwistStrength</Name>
+									<Value>(0, 0)</Value>
+								</Element>
+								<Element index="5">
+									<Name>ModulateColor</Name>
+									<Value>(20, 20, 20, 2)</Value>
+								</Element>
+								<Element index="6">
+									<Name>DiffuseUVScolling</Name>
+									<Value>(2, 0.5, -0.2, 0)</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="5">
+							<LayerName>fazhen_saoguangaaaa_submat</LayerName>
+							<ShaderName>Effect/Twisted</ShaderName>
+							<Parameters count="7" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>ef8b223f-8b88-523a-8aa2-81723e2710eb</Value>
+								</Element>
+								<Element index="1">
+									<Name>MaskTexture</Name>
+									<Value>95634c25-919d-475f-ae7b-2d1d2ec1a8a0</Value>
+								</Element>
+								<Element index="2">
+									<Name>TwistTexture</Name>
+									<Value>00000000-0000-0000-0000-000000000000</Value>
+								</Element>
+								<Element index="3">
+									<Name>TwistUVScolling</Name>
+									<Value>(1, 1, 0, 0)</Value>
+								</Element>
+								<Element index="4">
+									<Name>TwistStrength</Name>
+									<Value>(0, 0)</Value>
+								</Element>
+								<Element index="5">
+									<Name>ModulateColor</Name>
+									<Value>(20, 20, 20, 2)</Value>
+								</Element>
+								<Element index="6">
+									<Name>DiffuseUVScolling</Name>
+									<Value>(2, 0.5, -0.2, 0)</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="6">
+							<LayerName>smoke01_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>fb43c542-91fc-4098-adb6-b4f01be39ad2</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="7">
+							<LayerName>spark02_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>2cf492ca-d772-4b3c-b9d1-de3414e701de</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(2, 2, 2, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>false</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="8">
+							<LayerName>spark03_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>2cf492ca-d772-4b3c-b9d1-de3414e701de</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(2, 2, 2, 12)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>false</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="9">
+							<LayerName>smok001aaaaa_submat</LayerName>
+							<ShaderName>Effect/Twisted</ShaderName>
+							<Parameters count="7" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>51c3f0c0-c738-463b-a5a7-07c12c4b321c</Value>
+								</Element>
+								<Element index="1">
+									<Name>MaskTexture</Name>
+									<Value>5bce8a35-2e9e-4e79-a6ab-4e0171fb8684</Value>
+								</Element>
+								<Element index="2">
+									<Name>TwistTexture</Name>
+									<Value>51c3f0c0-c738-463b-a5a7-07c12c4b321c</Value>
+								</Element>
+								<Element index="3">
+									<Name>TwistUVScolling</Name>
+									<Value>(3, 1, 0, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>TwistStrength</Name>
+									<Value>(0.5, 0.2)</Value>
+								</Element>
+								<Element index="5">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="6">
+									<Name>DiffuseUVScolling</Name>
+									<Value>(3, 1, 0, 1)</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="10">
+							<LayerName>tuowei02_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>7cc83d48-9228-56a3-96cf-7aece16b007c</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(3, 3, 3, 51)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>false</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="11">
+							<LayerName>tuowei01aaa_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>687b1f65-9977-54f7-8b59-891371408fa3</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(3, 3, 3, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>false</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="12">
+							<LayerName>andi02aaaa_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>0d464323-1a2a-4d9d-b5f7-4bf2e3bcff18</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>10</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="13">
+							<LayerName>andi01_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>e2bbfc18-bff5-42ec-8ef2-5546d6cddc85</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>10</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 2)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="14">
+							<LayerName>andi02_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>a279476f-1276-4043-9a21-b2ea50a5f35b</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>10</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 2)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="15">
+							<LayerName>waiquan01aaaaa_submat</LayerName>
+							<ShaderName>Effect/Twisted</ShaderName>
+							<Parameters count="7" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>8d8a10a8-53e2-4cc1-bfe1-9cc9f12a711e</Value>
+								</Element>
+								<Element index="1">
+									<Name>MaskTexture</Name>
+									<Value>ab93e245-78e3-43af-a6d0-889c0c9c9ed0</Value>
+								</Element>
+								<Element index="2">
+									<Name>TwistTexture</Name>
+									<Value>7c24e248-289e-46b2-b328-7f3a1b33c42c</Value>
+								</Element>
+								<Element index="3">
+									<Name>TwistUVScolling</Name>
+									<Value>(3, 0.4, 0, -0.5)</Value>
+								</Element>
+								<Element index="4">
+									<Name>TwistStrength</Name>
+									<Value>(0.1, 0.1)</Value>
+								</Element>
+								<Element index="5">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="6">
+									<Name>DiffuseUVScolling</Name>
+									<Value>(3, 0.3, 0, -0.2)</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="16">
+							<LayerName>Faqiu_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>ffffffff-0100-0000-0100-00003d000000</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="17">
+							<LayerName>Faqiu01_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>ffffffff-0100-0000-0100-00003d000000</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="18">
+							<LayerName>ball01_submat</LayerName>
+							<ShaderName>Effect/Fresnel</ShaderName>
+							<Parameters count="10" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>00000000-0000-0000-0000-000000000000</Value>
+								</Element>
+								<Element index="1">
+									<Name>MaskTexture</Name>
+									<Value>00000000-0000-0000-0000-000000000000</Value>
+								</Element>
+								<Element index="2">
+									<Name>TwistTexture</Name>
+									<Value>a94ad614-9393-4554-a067-f572d17f96ec</Value>
+								</Element>
+								<Element index="3">
+									<Name>FresnelPower</Name>
+									<Value>0.1</Value>
+								</Element>
+								<Element index="4">
+									<Name>TwistUVScolling</Name>
+									<Value>(2, 2, 0, 0)</Value>
+								</Element>
+								<Element index="5">
+									<Name>FresnelAlpha</Name>
+									<Value>2</Value>
+								</Element>
+								<Element index="6">
+									<Name>TwistStrength</Name>
+									<Value>(0.1, 0.1)</Value>
+								</Element>
+								<Element index="7">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="8">
+									<Name>ModulateColor</Name>
+									<Value>(2, 2, 2, 4)</Value>
+								</Element>
+								<Element index="9">
+									<Name>DiffuseUVScolling</Name>
+									<Value>(1, 0.6, 0.3, 0.3)</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="19">
+							<LayerName>guangqiu_submat</LayerName>
+							<ShaderName>Effect/Fresnel</ShaderName>
+							<Parameters count="10" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>211d8b75-f572-41aa-b179-e04499ed02c1</Value>
+								</Element>
+								<Element index="1">
+									<Name>MaskTexture</Name>
+									<Value>00000000-0000-0000-0000-000000000000</Value>
+								</Element>
+								<Element index="2">
+									<Name>TwistTexture</Name>
+									<Value>2a81663b-0bc4-49bb-a391-2c6f7312f915</Value>
+								</Element>
+								<Element index="3">
+									<Name>FresnelPower</Name>
+									<Value>0.1</Value>
+								</Element>
+								<Element index="4">
+									<Name>TwistUVScolling</Name>
+									<Value>(2, 2, 0, 0)</Value>
+								</Element>
+								<Element index="5">
+									<Name>FresnelAlpha</Name>
+									<Value>2</Value>
+								</Element>
+								<Element index="6">
+									<Name>TwistStrength</Name>
+									<Value>(0.1, 0.1)</Value>
+								</Element>
+								<Element index="7">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="8">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 2)</Value>
+								</Element>
+								<Element index="9">
+									<Name>DiffuseUVScolling</Name>
+									<Value>(1, 0.6, 0.3, 0.3)</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="20">
+							<LayerName>ball02_submat</LayerName>
+							<ShaderName>Effect/Twisted</ShaderName>
+							<Parameters count="7" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>00000000-0000-0000-0000-000000000000</Value>
+								</Element>
+								<Element index="1">
+									<Name>MaskTexture</Name>
+									<Value>00000000-0000-0000-0000-000000000000</Value>
+								</Element>
+								<Element index="2">
+									<Name>TwistTexture</Name>
+									<Value>a94ad614-9393-4554-a067-f572d17f96ec</Value>
+								</Element>
+								<Element index="3">
+									<Name>TwistUVScolling</Name>
+									<Value>(2, 2, 0, 0)</Value>
+								</Element>
+								<Element index="4">
+									<Name>TwistStrength</Name>
+									<Value>(0.1, 0.1)</Value>
+								</Element>
+								<Element index="5">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="6">
+									<Name>DiffuseUVScolling</Name>
+									<Value>(1, 0.6, 0.3, 0.3)</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="21">
+							<LayerName>ball03_submat</LayerName>
+							<ShaderName>Effect/Twisted</ShaderName>
+							<Parameters count="7" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>d865053d-e6b7-409c-a062-19c1571d9156</Value>
+								</Element>
+								<Element index="1">
+									<Name>MaskTexture</Name>
+									<Value>00000000-0000-0000-0000-000000000000</Value>
+								</Element>
+								<Element index="2">
+									<Name>TwistTexture</Name>
+									<Value>a8390d82-b453-4b7c-850c-de95de00ed18</Value>
+								</Element>
+								<Element index="3">
+									<Name>TwistUVScolling</Name>
+									<Value>(2, 2, 0, 0)</Value>
+								</Element>
+								<Element index="4">
+									<Name>TwistStrength</Name>
+									<Value>(0.1, 0.1)</Value>
+								</Element>
+								<Element index="5">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="6">
+									<Name>DiffuseUVScolling</Name>
+									<Value>(1, 0.6, 0.3, 0.3)</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="22">
+							<LayerName>smoke01_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>f1e7ae92-5180-4607-b355-8b41aaf16bbd</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>3.33333325</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="23">
+							<LayerName>tra_submat</LayerName>
+							<ShaderName>Effect/Twisted</ShaderName>
+							<Parameters count="7" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>d6fa011e-ce54-4c2c-a4e4-16eeac951392</Value>
+								</Element>
+								<Element index="1">
+									<Name>MaskTexture</Name>
+									<Value>e8b892dc-ffd9-5c5b-b9f1-b17aff83d618</Value>
+								</Element>
+								<Element index="2">
+									<Name>TwistTexture</Name>
+									<Value>00000000-0000-0000-0000-000000000000</Value>
+								</Element>
+								<Element index="3">
+									<Name>TwistUVScolling</Name>
+									<Value>(1, 1, -0.5, 0)</Value>
+								</Element>
+								<Element index="4">
+									<Name>TwistStrength</Name>
+									<Value>(0, 0)</Value>
+								</Element>
+								<Element index="5">
+									<Name>ModulateColor</Name>
+									<Value>(2, 2, 2, 2)</Value>
+								</Element>
+								<Element index="6">
+									<Name>DiffuseUVScolling</Name>
+									<Value>(1, 1, -1, 0)</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="24">
+							<LayerName>Dimian_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>ffffffff-0100-0000-0100-000047000000</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="25">
+							<LayerName>Caidai001_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>ffffffff-0100-0000-0100-000047000000</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="26">
+							<LayerName>Caidai002_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>ffffffff-0100-0000-0100-000047000000</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="27">
+							<LayerName>bianfu02_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>e26ca872-a40e-4490-b528-78a8ca850aaa</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(2, 1, 1, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="28">
+							<LayerName>glow03_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>e8b892dc-ffd9-5c5b-b9f1-b17aff83d618</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(2.5, 2.5, 2.5, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="29">
+							<LayerName>spark04_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>299b51da-8260-4e59-9a78-86500b57c86b</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(4, 4, 4, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="30">
+							<LayerName>xueye_03_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>776bcee3-d8cf-4390-abca-baef7b765c54</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>5</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 2)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>false</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="31">
+							<LayerName>xueye_01_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>776bcee3-d8cf-4390-abca-baef7b765c54</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 2)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>false</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+						<Element index="32">
+							<LayerName>baozha_submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>ffffffff-0100-0000-0100-000047000000</Value>
+								</Element>
+								<Element index="1">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="2">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 1)</Value>
+								</Element>
+								<Element index="3">
+									<Name>UVScale</Name>
+									<Value>(1, 1)</Value>
+								</Element>
+								<Element index="4">
+									<Name>Local</Name>
+									<Value>1</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+					</Layers>
+				</info>
+				<flags count="33" ordered="true">
+					<Element index="0">1048608</Element>
+					<Element index="1">1048608</Element>
+					<Element index="2">1048608</Element>
+					<Element index="3">1048608</Element>
+					<Element index="4">1048608</Element>
+					<Element index="5">1048608</Element>
+					<Element index="6">1048608</Element>
+					<Element index="7">1048608</Element>
+					<Element index="8">1048608</Element>
+					<Element index="9">1048608</Element>
+					<Element index="10">1048608</Element>
+					<Element index="11">1048608</Element>
+					<Element index="12">1048608</Element>
+					<Element index="13">1048608</Element>
+					<Element index="14">1048608</Element>
+					<Element index="15">1048608</Element>
+					<Element index="16">1048608</Element>
+					<Element index="17">1048608</Element>
+					<Element index="18">1048608</Element>
+					<Element index="19">1048608</Element>
+					<Element index="20">1048608</Element>
+					<Element index="21">1048608</Element>
+					<Element index="22">1048608</Element>
+					<Element index="23">1048608</Element>
+					<Element index="24">1048608</Element>
+					<Element index="25">1048608</Element>
+					<Element index="26">1048608</Element>
+					<Element index="27">1048608</Element>
+					<Element index="28">3145760</Element>
+					<Element index="29">1048608</Element>
+					<Element index="30">1048608</Element>
+					<Element index="31">1048608</Element>
+					<Element index="32">1048608</Element>
+				</flags>
+			</Entity>
+		</Root>
+	</SMaterialData>
+</Resource>

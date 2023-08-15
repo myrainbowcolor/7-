@@ -561,6 +561,12 @@
                         {
                             "arg_type": 100022, 
                             "args_list": [
+                                [
+                                    2090537471, 
+                                    "BUG\uff0c\u5b9e\u9645\u5f00\u59cb\u653b\u51fb\u8303\u56f4\u5927\u4e8e\u91ca\u653e\u8303\u56f4", 
+                                    1673170948, 
+                                    "action_type"
+                                ], 
                                 {
                                     "action_type": "CREATE_STRAIGHT_MOVER", 
                                     "args_list": [
@@ -590,19 +596,39 @@
                                             "arg_type": 100000, 
                                             "args_list": [
                                                 {
-                                                    "arg_type": 100014, 
-                                                    "args_list": [], 
-                                                    "sub_type": "CUR_ABILITY"
+                                                    "arg_type": 100000, 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100014, 
+                                                            "args_list": [], 
+                                                            "sub_type": "CUR_ABILITY"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100078, 
+                                                            "args_list": [
+                                                                "ability_cast_range"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "sub_type": "GET_ABILITY_FLOAT_ATTR"
                                                 }, 
                                                 {
-                                                    "arg_type": 100078, 
+                                                    "arg_type": 100017, 
                                                     "args_list": [
-                                                        "ability_cast_range"
+                                                        "+"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100000, 
+                                                    "args_list": [
+                                                        100.0
                                                     ], 
                                                     "sub_type": 1
                                                 }
                                             ], 
-                                            "sub_type": "GET_ABILITY_FLOAT_ATTR"
+                                            "sub_type": "ARITHMETIC_OPERATION"
                                         }, 
                                         {
                                             "arg_type": 100000, 

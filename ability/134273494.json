@@ -204,9 +204,21 @@
                                                             "arg_type": 100006, 
                                                             "args_list": [], 
                                                             "sub_type": "ABILITY_OWNER"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100035, 
+                                                            "args_list": [
+                                                                "!="
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100006, 
+                                                            "args_list": [], 
+                                                            "sub_type": "NONE_UNIT"
                                                         }
                                                     ], 
-                                                    "condition_type": "TYPE_IS_EXIST", 
+                                                    "condition_type": "UNIT_COMPARE", 
                                                     "element_id": 396640258970017, 
                                                     "enable": true
                                                 }

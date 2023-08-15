@@ -107,7 +107,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "7.0"
+            "0.0"
         ]
     }, 
     "collection_animation": "", 
@@ -161,6 +161,17 @@
     "is_meele": false, 
     "key": 134268195, 
     "kv": {
+        "areaKey": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 0, 
+            "key": "areaKey", 
+            "prop_cls": "PText", 
+            "remark": "", 
+            "sort": 1, 
+            "type": 0, 
+            "value": ""
+        }, 
         "warningEffect": {
             "annotation": "", 
             "desc": "", 

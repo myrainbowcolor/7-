@@ -8,7 +8,7 @@
             ], 
             "call_enabled": true, 
             "condition": [], 
-            "enabled": false, 
+            "enabled": true, 
             "event": [
                 {
                     "args_list": [], 
@@ -1406,7 +1406,7 @@
             ], 
             "call_enabled": true, 
             "condition": [], 
-            "enabled": false, 
+            "enabled": true, 
             "event": [
                 {
                     "args_list": [
@@ -1631,7 +1631,7 @@
                                         {
                                             "arg_type": 100000, 
                                             "args_list": [
-                                                0.15
+                                                0.03
                                             ], 
                                             "sub_type": 1
                                         }, 
@@ -3102,7 +3102,7 @@
                                                                                         {
                                                                                             "arg_type": 100001, 
                                                                                             "args_list": [
-                                                                                                false
+                                                                                                true
                                                                                             ], 
                                                                                             "sub_type": 1
                                                                                         }, 
@@ -6827,7 +6827,7 @@
             ], 
             "call_enabled": true, 
             "condition": [], 
-            "enabled": false, 
+            "enabled": true, 
             "event": [
                 {
                     "args_list": [
@@ -6856,7 +6856,7 @@
             ], 
             "call_enabled": true, 
             "condition": [], 
-            "enabled": false, 
+            "enabled": true, 
             "event": [
                 {
                     "args_list": [], 
@@ -6915,7 +6915,7 @@
             ], 
             "call_enabled": true, 
             "condition": [], 
-            "enabled": false, 
+            "enabled": true, 
             "event": [
                 {
                     "args_list": [], 
@@ -7810,7 +7810,7 @@
             "group_id": "dHcNwDpTEe6ZjjDQQvdSCP", 
             "p_trigger_id": null, 
             "trigger_id": 1173069914, 
-            "trigger_name": "\u521d\u59cb\u5316_2", 
+            "trigger_name": "\u521d\u59cb\u5316", 
             "valid": true
         }, 
         "1810604120": {
@@ -8007,64 +8007,6 @@
                     "bp": false, 
                     "element_id": 1810604120857322, 
                     "enable": true
-                }, 
-                {
-                    "action_type": "SET_ENTITY_KV", 
-                    "args_list": [
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [
-                                2
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100003, 
-                            "args_list": [
-                                "\u73a9\u5bb6"
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100025, 
-                            "args_list": [
-                                1
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 1810604120857413, 
-                    "enable": false
-                }, 
-                {
-                    "action_type": "SET_ENTITY_KV", 
-                    "args_list": [
-                        {
-                            "arg_type": 100025, 
-                            "args_list": [
-                                1
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100003, 
-                            "args_list": [
-                                "\u82f1\u96c4"
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [
-                                2
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 1810604120857422, 
-                    "enable": false
                 }, 
                 {
                     "action_type": "SET_VARIABLE", 
@@ -8731,7 +8673,7 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 1810604120000021, 
-                                                    "enable": true
+                                                    "enable": false
                                                 }, 
                                                 {
                                                     "action_type": "SET_ENTITY_KV", 
@@ -12693,7 +12635,7 @@
             ], 
             "call_enabled": true, 
             "condition": [], 
-            "enabled": false, 
+            "enabled": true, 
             "event": [
                 {
                     "args_list": [], 
@@ -12765,7 +12707,7 @@
                 "__tuple__": true, 
                 "items": [
                     1173069914, 
-                    "\u521d\u59cb\u5316_2"
+                    "\u521d\u59cb\u5316"
                 ]
             }, 
             {

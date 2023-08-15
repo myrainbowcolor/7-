@@ -1,6 +1,6 @@
 {
     "_custom_": true, 
-    "_ref_": 134225166, 
+    "_ref_": 134233099, 
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
@@ -41,7 +41,7 @@
             "0"
         ]
     }, 
-    "ability_icon": 100508, 
+    "ability_icon": 134259955, 
     "ability_max_level": 1, 
     "ability_max_stack_count": {
         "__tuple__": true, 
@@ -83,9 +83,6 @@
     }, 
     "build_rotate": 0, 
     "building_attack_range_sfx": 101492, 
-    "bw_ignore_ability_command": false, 
-    "bw_ignore_move_command": false, 
-    "bw_move_interrupt": true, 
     "camp_priority_enemy": 1, 
     "camp_priority_friend": 1, 
     "camp_priority_neutral": 1, 
@@ -98,9 +95,6 @@
     "can_interrupt_others": true, 
     "can_prepare_interrupt": false, 
     "can_ps_interrupt": false, 
-    "cast_ignore_ability_command": true, 
-    "cast_ignore_move_command": true, 
-    "cast_move_interrupt": false, 
     "circle_radius": {
         "__tuple__": true, 
         "items": [
@@ -121,9 +115,6 @@
         "items": []
     }, 
     "cost_hp_can_die": false, 
-    "csp_ignore_ability_command": false, 
-    "csp_ignore_move_command": false, 
-    "csp_move_interrupt": true, 
     "cst_sfx_list": {
         "__tuple__": true, 
         "items": []
@@ -132,7 +123,6 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "desc": 94305538, 
     "description": 94305538, 
     "end_sfx_list": {
         "__tuple__": true, 
@@ -256,6 +246,17 @@
             "type": 15, 
             "value": 101934
         }, 
+        "\u5706\u5f62\u56fe\u6807": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 20, 
+            "key": "\u5706\u5f62\u56fe\u6807", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 11, 
+            "type": 14, 
+            "value": 134259955
+        }, 
         "\u5b57\u6bb5\u8bf4\u660e": {
             "annotation": "", 
             "desc": "", 
@@ -266,6 +267,28 @@
             "sort": 8, 
             "type": 35, 
             "value": "\u5996\u796d\u5f3a\u5316-\u4eba"
+        }, 
+        "\u7c7b\u578b": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 0, 
+            "key": "\u7c7b\u578b", 
+            "prop_cls": "PText", 
+            "remark": "", 
+            "sort": 10, 
+            "type": 0, 
+            "value": "1"
+        }, 
+        "\u88c5\u914d\u69fd\u4f4d": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 0, 
+            "key": "\u88c5\u914d\u69fd\u4f4d", 
+            "prop_cls": "PText", 
+            "remark": "", 
+            "sort": 9, 
+            "type": 0, 
+            "value": "6"
         }
     }, 
     "magicbook_list": {
@@ -280,9 +303,6 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "prepare_ignore_ability_command": true, 
-    "prepare_ignore_move_command": true, 
-    "prepare_move_interrupt": false, 
     "ps_sfx_list": {
         "__tuple__": true, 
         "items": []
@@ -311,7 +331,6 @@
             "0"
         ]
     }, 
-    "sector_radian": 2, 
     "sector_radius": {
         "__tuple__": true, 
         "items": [

@@ -19,7 +19,7 @@
         ]
     }, 
     "ability_cast_type": 2, 
-    "ability_channel_time": 2.5, 
+    "ability_channel_time": 3.0, 
     "ability_cost": {
         "__tuple__": true, 
         "items": [
@@ -107,7 +107,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "7.0"
+            "0.0"
         ]
     }, 
     "collection_animation": "", 
@@ -161,6 +161,17 @@
     "is_meele": false, 
     "key": 134248509, 
     "kv": {
+        "areaKey": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 0, 
+            "key": "areaKey", 
+            "prop_cls": "PText", 
+            "remark": "", 
+            "sort": 1, 
+            "type": 0, 
+            "value": ""
+        }, 
         "warningEffect": {
             "annotation": "", 
             "desc": "", 

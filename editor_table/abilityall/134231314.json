@@ -1,14 +1,6 @@
 {
-    "0": 31, 
-    "1": 1, 
-    "5": 1, 
-    "6": 0, 
-    "102": 0, 
-    "104": 500, 
-    "107": 0, 
-    "108": 100, 
     "_custom_": true, 
-    "_ref_": 134236126, 
+    "_ref_": 134231314, 
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
@@ -49,7 +41,7 @@
             "0"
         ]
     }, 
-    "ability_icon": 106518, 
+    "ability_icon": 134266887, 
     "ability_max_level": 1, 
     "ability_max_stack_count": {
         "__tuple__": true, 
@@ -131,7 +123,6 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "desc": 1274905861, 
     "description": 1274905861, 
     "end_sfx_list": {
         "__tuple__": true, 
@@ -376,6 +367,17 @@
             "type": 8, 
             "value": 134240623
         }, 
+        "\u5706\u5f62\u56fe\u6807": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 20, 
+            "key": "\u5706\u5f62\u56fe\u6807", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 22, 
+            "type": 14, 
+            "value": 134248074
+        }, 
         "\u5b57\u6bb5\u8bf4\u660e": {
             "annotation": "", 
             "desc": "", 
@@ -386,6 +388,28 @@
             "sort": 19, 
             "type": 35, 
             "value": " \u9e26\u5f71\u7a7f\u5fc3\u5f3a\u5316-\u5996"
+        }, 
+        "\u7c7b\u578b": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 0, 
+            "key": "\u7c7b\u578b", 
+            "prop_cls": "PText", 
+            "remark": "", 
+            "sort": 21, 
+            "type": 0, 
+            "value": "2"
+        }, 
+        "\u88c5\u914d\u69fd\u4f4d": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 0, 
+            "key": "\u88c5\u914d\u69fd\u4f4d", 
+            "prop_cls": "PText", 
+            "remark": "", 
+            "sort": 20, 
+            "type": 0, 
+            "value": "1"
         }
     }, 
     "magicbook_list": {

@@ -31,170 +31,201 @@
                     "enable": true
                 }, 
                 {
-                    "action_type": "SET_VARIABLE", 
+                    "action_type": "STORAGE_BOX", 
                     "args_list": [
                         {
-                            "arg_type": 100030, 
-                            "args_list": [
-                                {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "TABLE", 
-                                        "table", 
-                                        "local"
-                                    ]
-                                }
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100011, 
+                            "arg_type": 100021, 
                             "args_list": [], 
-                            "sub_type": "GET_NEW_TABLE"
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 77205514000053, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "SET_TABLE_VALUE_1D", 
-                    "args_list": [
+                            "sub_type": 1
+                        }, 
                         {
-                            "arg_type": 100011, 
+                            "arg_type": 100022, 
                             "args_list": [
                                 {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "TABLE", 
-                                        "table", 
-                                        "local"
-                                    ]
-                                }
-                            ], 
-                            "sub_type": "VARIABLE"
-                        }, 
-                        {
-                            "arg_type": 100002, 
-                            "args_list": [
-                                1
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100011, 
-                            "args_list": [
-                                "0a13f5bf-ae0a-48e0-aa26-8cb8a5e4a422"
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 77205514000026, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "SET_TABLE_VALUE_1D", 
-                    "args_list": [
-                        {
-                            "arg_type": 100011, 
-                            "args_list": [
-                                [
-                                    "TABLE", 
-                                    "table", 
-                                    "local"
-                                ]
-                            ], 
-                            "sub_type": "VARIABLE"
-                        }, 
-                        {
-                            "arg_type": 100002, 
-                            "args_list": [
-                                2
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100011, 
-                            "args_list": [
-                                "323f8318-6ff9-49a1-a4ab-aadc0bb4e048"
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 77205514000029, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "SET_TABLE_VALUE_1D", 
-                    "args_list": [
-                        {
-                            "arg_type": 100011, 
-                            "args_list": [
-                                [
-                                    "TABLE", 
-                                    "table", 
-                                    "local"
-                                ]
-                            ], 
-                            "sub_type": "VARIABLE"
-                        }, 
-                        {
-                            "arg_type": 100002, 
-                            "args_list": [
-                                3
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100011, 
-                            "args_list": [
-                                "24856c96-fe0c-4f5c-b601-cf8f20c23da0"
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 77205514000038, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "CALL_TRIGGER_FUNC", 
-                    "args_list": [
-                        {
-                            "arg_type": 100177, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100011, 
+                                    "action_type": "SET_VARIABLE", 
                                     "args_list": [
-                                        [
-                                            "TABLE", 
-                                            "table", 
-                                            "local"
-                                        ]
+                                        {
+                                            "arg_type": 100030, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "TABLE", 
+                                                        "table", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [], 
+                                            "sub_type": "GET_NEW_TABLE"
+                                        }
                                     ], 
-                                    "sub_type": "VARIABLE"
-                                }
-                            ], 
-                            "op_arg": [
+                                    "bp": false, 
+                                    "element_id": 77205514000053, 
+                                    "enable": true
+                                }, 
                                 {
-                                    "arg_type": 100002, 
+                                    "action_type": "SET_TABLE_VALUE_1D", 
                                     "args_list": [
-                                        3
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "TABLE", 
+                                                        "table", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": "VARIABLE"
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                1
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                "0a13f5bf-ae0a-48e0-aa26-8cb8a5e4a422"
+                                            ], 
+                                            "sub_type": 1
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "bp": false, 
+                                    "element_id": 77205514000026, 
+                                    "enable": true
+                                }, 
+                                {
+                                    "action_type": "SET_TABLE_VALUE_1D", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                [
+                                                    "TABLE", 
+                                                    "table", 
+                                                    "local"
+                                                ]
+                                            ], 
+                                            "sub_type": "VARIABLE"
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                2
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                "323f8318-6ff9-49a1-a4ab-aadc0bb4e048"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 77205514000029, 
+                                    "enable": true
+                                }, 
+                                {
+                                    "action_type": "SET_TABLE_VALUE_1D", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                [
+                                                    "TABLE", 
+                                                    "table", 
+                                                    "local"
+                                                ]
+                                            ], 
+                                            "sub_type": "VARIABLE"
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                3
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                "24856c96-fe0c-4f5c-b601-cf8f20c23da0"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 77205514000038, 
+                                    "enable": true
+                                }, 
+                                {
+                                    "action_type": "CALL_TRIGGER_FUNC", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100177, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100011, 
+                                                    "args_list": [
+                                                        [
+                                                            "TABLE", 
+                                                            "table", 
+                                                            "local"
+                                                        ]
+                                                    ], 
+                                                    "sub_type": "VARIABLE"
+                                                }
+                                            ], 
+                                            "op_arg": [
+                                                {
+                                                    "arg_type": 100002, 
+                                                    "args_list": [
+                                                        3
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "op_arg_enable": [
+                                                false
+                                            ], 
+                                            "sub_type": "7297c5e1377311eebce1e454e8e29cb0"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "call_rt_arg_idxes": [], 
+                                    "element_id": 77205514000023, 
+                                    "enable": true
                                 }
                             ], 
-                            "op_arg_enable": [
-                                false
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u5173\u5361\u5de5\u5177"
                             ], 
-                            "sub_type": "7297c5e1377311eebce1e454e8e29cb0"
+                            "sub_type": 1
                         }
                     ], 
                     "bp": false, 
-                    "call_rt_arg_idxes": [], 
-                    "element_id": 77205514000023, 
+                    "element_id": 77205514000055, 
                     "enable": true
                 }, 
                 {
@@ -211,22 +242,6 @@
                     "bp": false, 
                     "call_rt_arg_idxes": [], 
                     "element_id": 77205514000014, 
-                    "enable": false
-                }, 
-                {
-                    "action_type": "CALL_TRIGGER_FUNC", 
-                    "args_list": [
-                        {
-                            "arg_type": 100177, 
-                            "args_list": [], 
-                            "op_arg": [], 
-                            "op_arg_enable": [], 
-                            "sub_type": "8ea252702a1011ee8617e454e8e29cb0"
-                        }
-                    ], 
-                    "bp": false, 
-                    "call_rt_arg_idxes": [], 
-                    "element_id": 77205514000019, 
                     "enable": false
                 }
             ], 

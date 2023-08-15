@@ -585,7 +585,7 @@
                                                                                                                 {
                                                                                                                     "arg_type": 100001, 
                                                                                                                     "args_list": [
-                                                                                                                        true
+                                                                                                                        false
                                                                                                                     ], 
                                                                                                                     "sub_type": 1
                                                                                                                 }, 
@@ -1203,31 +1203,6 @@
                                                                                                                                                                                                     ], 
                                                                                                                                                                                                     "condition_type": "NOT", 
                                                                                                                                                                                                     "element_id": 1826963457967297, 
-                                                                                                                                                                                                    "enable": true
-                                                                                                                                                                                                }, 
-                                                                                                                                                                                                {
-                                                                                                                                                                                                    "args_list": [
-                                                                                                                                                                                                        {
-                                                                                                                                                                                                            "arg_type": 100021, 
-                                                                                                                                                                                                            "args_list": [
-                                                                                                                                                                                                                {
-                                                                                                                                                                                                                    "args_list": [
-                                                                                                                                                                                                                        {
-                                                                                                                                                                                                                            "arg_type": 100006, 
-                                                                                                                                                                                                                            "args_list": [], 
-                                                                                                                                                                                                                            "sub_type": "FOR_EACH_SELECTED_UNIT"
-                                                                                                                                                                                                                        }
-                                                                                                                                                                                                                    ], 
-                                                                                                                                                                                                                    "condition_type": "TYPE_IS_EXIST", 
-                                                                                                                                                                                                                    "element_id": 1826963457967304, 
-                                                                                                                                                                                                                    "enable": true
-                                                                                                                                                                                                                }
-                                                                                                                                                                                                            ], 
-                                                                                                                                                                                                            "sub_type": 1
-                                                                                                                                                                                                        }
-                                                                                                                                                                                                    ], 
-                                                                                                                                                                                                    "condition_type": "NOT", 
-                                                                                                                                                                                                    "element_id": 1826963457967300, 
                                                                                                                                                                                                     "enable": true
                                                                                                                                                                                                 }
                                                                                                                                                                                             ], 

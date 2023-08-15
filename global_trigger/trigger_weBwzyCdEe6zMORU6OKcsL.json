@@ -584,14 +584,46 @@
                                                         {
                                                             "arg_type": 100009, 
                                                             "args_list": [
-                                                                10001
+                                                                10147
                                                             ], 
                                                             "sub_type": 1
                                                         }
                                                     ], 
                                                     "condition_type": "WHETHER_POINT_IN_AREA", 
                                                     "element_id": 983601164071647, 
-                                                    "enable": false
+                                                    "enable": true
+                                                }, 
+                                                {
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100021, 
+                                                            "args_list": [
+                                                                {
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100006, 
+                                                                            "args_list": [], 
+                                                                            "sub_type": "DAMAGE_TARGET_UNIT"
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100003, 
+                                                                            "args_list": [
+                                                                                "ACCOMPANY"
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }
+                                                                    ], 
+                                                                    "condition_type": "UNIT_HAS_TAG", 
+                                                                    "element_id": 983601164784697, 
+                                                                    "enable": true
+                                                                }
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "condition_type": "NOT", 
+                                                    "element_id": 983601164784691, 
+                                                    "enable": true
                                                 }
                                             ], 
                                             "sub_type": 1
@@ -1840,96 +1872,6 @@
             "trigger_name": "\u4efb\u610f\u5355\u4f4d\u53d7\u5230\u4f24\u5bb3", 
             "valid": true
         }, 
-        "1097261096": {
-            "action": [
-                {
-                    "action_type": "CALL_TRIGGER_FUNC", 
-                    "args_list": [
-                        {
-                            "arg_type": 100177, 
-                            "args_list": [
-                                null, 
-                                {
-                                    "arg_type": 100000, 
-                                    "args_list": [
-                                        0.15
-                                    ], 
-                                    "sub_type": 1
-                                }
-                            ], 
-                            "op_arg": [
-                                null
-                            ], 
-                            "op_arg_enable": [
-                                false
-                            ], 
-                            "sub_type": "07ea55cf2cfd11ee8be2e454e8e29cb0"
-                        }
-                    ], 
-                    "bp": false, 
-                    "call_rt_arg_idxes": [], 
-                    "element_id": 1097261096000309, 
-                    "enable": true
-                }
-            ], 
-            "call_enabled": true, 
-            "condition": [
-                {
-                    "args_list": [
-                        {
-                            "arg_type": 100025, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100006, 
-                                    "args_list": [], 
-                                    "sub_type": "GET_UNIT_FROM_EVENT"
-                                }
-                            ], 
-                            "sub_type": "OWNER_PLAYER"
-                        }, 
-                        {
-                            "arg_type": 100035, 
-                            "args_list": [
-                                "=="
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100025, 
-                            "args_list": [
-                                31
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "condition_type": "PLAYER_COMPARE", 
-                    "element_id": 1097261096000072, 
-                    "enable": true
-                }
-            ], 
-            "enabled": true, 
-            "event": [
-                {
-                    "args_list": [
-                        {
-                            "arg_type": 100008, 
-                            "args_list": [
-                                "ET_BEFORE_UNIT_DIE"
-                            ], 
-                            "sub_type": "GENERIC_UNIT_EVENT"
-                        }
-                    ], 
-                    "element_id": 1097261096000002, 
-                    "enable": false, 
-                    "event_type": "GENERIC_UNIT_EVENT"
-                }
-            ], 
-            "group_id": "weBwzyCdEe6zMORU6OKcsL", 
-            "p_trigger_id": null, 
-            "trigger_id": 1097261096, 
-            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": false
-        }, 
         "1139941431": {
             "action": [
                 {
@@ -1965,13 +1907,45 @@
                                                         {
                                                             "arg_type": 100009, 
                                                             "args_list": [
-                                                                10001
+                                                                10147
                                                             ], 
                                                             "sub_type": 1
                                                         }
                                                     ], 
                                                     "condition_type": "WHETHER_POINT_IN_AREA", 
                                                     "element_id": 1390825526000034, 
+                                                    "enable": true
+                                                }, 
+                                                {
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100025, 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100006, 
+                                                                    "args_list": [], 
+                                                                    "sub_type": "GET_UNIT_FROM_EVENT"
+                                                                }
+                                                            ], 
+                                                            "sub_type": "OWNER_PLAYER"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100035, 
+                                                            "args_list": [
+                                                                "=="
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100025, 
+                                                            "args_list": [
+                                                                31
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "condition_type": "PLAYER_COMPARE", 
+                                                    "element_id": 1139941431991343, 
                                                     "enable": true
                                                 }
                                             ], 
@@ -2581,7 +2555,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1139941431, 
             "trigger_name": "\u4efb\u610f\u5355\u4f4d\u51fa\u751f", 
-            "valid": false
+            "valid": true
         }, 
         "1390825526": {
             "action": [
@@ -2618,13 +2592,45 @@
                                                         {
                                                             "arg_type": 100009, 
                                                             "args_list": [
-                                                                10001
+                                                                10147
                                                             ], 
                                                             "sub_type": 1
                                                         }
                                                     ], 
                                                     "condition_type": "WHETHER_POINT_IN_AREA", 
                                                     "element_id": 1390825526000034, 
+                                                    "enable": true
+                                                }, 
+                                                {
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100025, 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100006, 
+                                                                    "args_list": [], 
+                                                                    "sub_type": "GET_UNIT_FROM_EVENT"
+                                                                }
+                                                            ], 
+                                                            "sub_type": "OWNER_PLAYER"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100035, 
+                                                            "args_list": [
+                                                                "=="
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100025, 
+                                                            "args_list": [
+                                                                31
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "condition_type": "PLAYER_COMPARE", 
+                                                    "element_id": 1139941431991343, 
                                                     "enable": true
                                                 }
                                             ], 
@@ -2836,7 +2842,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1390825526, 
             "trigger_name": "\u4efb\u610f\u5355\u4f4d\u6b7b\u4ea1", 
-            "valid": false
+            "valid": true
         }
     }, 
     "trigger_group_info": {
@@ -2868,13 +2874,6 @@
                 "items": [
                     983601164, 
                     "\u4efb\u610f\u5355\u4f4d\u53d7\u5230\u4f24\u5bb3"
-                ]
-            }, 
-            {
-                "__tuple__": true, 
-                "items": [
-                    1097261096, 
-                    "\u65b0\u5efa\u89e6\u53d1\u5668"
                 ]
             }, 
             {
@@ -2919,7 +2918,7 @@
                         "__tuple__": true, 
                         "items": [
                             1173069914, 
-                            "\u521d\u59cb\u5316_2"
+                            "\u521d\u59cb\u5316"
                         ]
                     }, 
                     {

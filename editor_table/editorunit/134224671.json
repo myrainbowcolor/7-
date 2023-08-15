@@ -1,14 +1,4 @@
 {
-    "0": 32, 
-    "1": 1, 
-    "3": 320.67, 
-    "5": 1, 
-    "6": 0, 
-    "100": 40.87, 
-    "102": 0, 
-    "104": 500, 
-    "107": 0, 
-    "108": 100, 
     "9l8zzyFiEe6ChORU6OKcsB": 0, 
     "9l8zzyFiEe6ChORU6OKcsB_grow": 0, 
     "_custom_": true, 
@@ -69,15 +59,15 @@
     }, 
     "common_ability_list": [
         [
-            134231314, 
+            134236651, 
             1
         ], 
         [
-            134244577, 
+            134232730, 
             1
         ], 
         [
-            134249650, 
+            134245939, 
             1
         ]
     ], 
@@ -89,14 +79,10 @@
         ]
     }, 
     "common_atk_type": 999, 
-    "content": "strength", 
-    "copper coin": 0, 
     "critical_chance": 0.0, 
     "critical_chance_grow": 0.0, 
     "critical_dmg": 200.0, 
     "critical_dmg_grow": 0.0, 
-    "dead_exp": 10, 
-    "dead_money": 5, 
     "default_behaviour_type": "caution", 
     "defense_mag": 0.0, 
     "defense_mag_grow": 0.0, 
@@ -127,28 +113,23 @@
     ], 
     "fresnel_emissive_color_strength": 0, 
     "fresnel_exp": 1, 
-    "gainvalue": 0.0, 
-    "gainvalue_grow": 0.0, 
-    "gold coin": 100, 
     "has_mp": false, 
-    "has_shield": true, 
     "heal_effect": 0.0, 
     "heal_effect_grow": 0.0, 
     "healing_effect": 0, 
     "healing_effect_grow": 0, 
-    "height_num": -1, 
     "height_offset": 0, 
     "hero_ability_list": [
         [
-            134264509, 
+            134223781, 
             1
         ], 
         [
-            134228842, 
+            134261017, 
             1
         ], 
         [
-            134261467, 
+            134263595, 
             1
         ]
     ], 
@@ -230,6 +211,237 @@
             "type": 2, 
             "value": 0
         }, 
+        "\u56fe\u68071": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 20, 
+            "key": "\u56fe\u68071", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 25, 
+            "type": 14, 
+            "value": 134219970
+        }, 
+        "\u56fe\u68072": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 20, 
+            "key": "\u56fe\u68072", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 26, 
+            "type": 14, 
+            "value": 134254103
+        }, 
+        "\u5929\u8d4b10\u6280\u80fd": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b10\u6280\u80fd", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 19, 
+            "type": 7, 
+            "value": 134235999
+        }, 
+        "\u5929\u8d4b10\u6280\u80fd2": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b10\u6280\u80fd2", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 20, 
+            "type": 7, 
+            "value": 134244447
+        }, 
+        "\u5929\u8d4b11\u6280\u80fd": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b11\u6280\u80fd", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 21, 
+            "type": 7, 
+            "value": 134277938
+        }, 
+        "\u5929\u8d4b11\u6280\u80fd2": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b11\u6280\u80fd2", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 22, 
+            "type": 7, 
+            "value": 134256499
+        }, 
+        "\u5929\u8d4b12\u6280\u80fd": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b12\u6280\u80fd", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 23, 
+            "type": 7, 
+            "value": 134233099
+        }, 
+        "\u5929\u8d4b12\u6280\u80fd2": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b12\u6280\u80fd2", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 24, 
+            "type": 7, 
+            "value": 134272596
+        }, 
+        "\u5929\u8d4b1\u6280\u80fd": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b1\u6280\u80fd", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 6, 
+            "type": 7, 
+            "value": 134236651
+        }, 
+        "\u5929\u8d4b2\u6280\u80fd": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b2\u6280\u80fd", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 7, 
+            "type": 7, 
+            "value": 134232730
+        }, 
+        "\u5929\u8d4b3\u6280\u80fd": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b3\u6280\u80fd", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 8, 
+            "type": 7, 
+            "value": 134245939
+        }, 
+        "\u5929\u8d4b4\u6280\u80fd": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b4\u6280\u80fd", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 9, 
+            "type": 7, 
+            "value": 134228842
+        }, 
+        "\u5929\u8d4b5\u6280\u80fd": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b5\u6280\u80fd", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 10, 
+            "type": 7, 
+            "value": 134264509
+        }, 
+        "\u5929\u8d4b6\u6280\u80fd": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b6\u6280\u80fd", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 11, 
+            "type": 7, 
+            "value": 134225166
+        }, 
+        "\u5929\u8d4b6\u6280\u80fd2": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b6\u6280\u80fd2", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 12, 
+            "type": 7, 
+            "value": 134261467
+        }, 
+        "\u5929\u8d4b7\u6280\u80fd": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b7\u6280\u80fd", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 13, 
+            "type": 7, 
+            "value": 134236126
+        }, 
+        "\u5929\u8d4b7\u6280\u80fd2": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b7\u6280\u80fd2", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 14, 
+            "type": 7, 
+            "value": 134231314
+        }, 
+        "\u5929\u8d4b8\u6280\u80fd": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b8\u6280\u80fd", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 15, 
+            "type": 7, 
+            "value": 134250360
+        }, 
+        "\u5929\u8d4b8\u6280\u80fd2": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b8\u6280\u80fd2", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 16, 
+            "type": 7, 
+            "value": 134244577
+        }, 
+        "\u5929\u8d4b9\u6280\u80fd": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b9\u6280\u80fd", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 17, 
+            "type": 7, 
+            "value": 134227917
+        }, 
+        "\u5929\u8d4b9\u6280\u80fd2": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "\u5929\u8d4b9\u6280\u80fd2", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 18, 
+            "type": 7, 
+            "value": 134249650
+        }, 
         "\u5996\u70b9": {
             "annotation": "", 
             "desc": "", 
@@ -240,6 +452,39 @@
             "sort": 1, 
             "type": 2, 
             "value": 0
+        }, 
+        "\u65cf1\u5e95\u6846": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 20, 
+            "key": "\u65cf1\u5e95\u6846", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 28, 
+            "type": 14, 
+            "value": 132085
+        }, 
+        "\u65cf2\u5e95\u6846": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 20, 
+            "key": "\u65cf2\u5e95\u6846", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 29, 
+            "type": 14, 
+            "value": 132082
+        }, 
+        "\u7ec8\u6781\u7279\u8d28\u56fe\u6807": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 20, 
+            "key": "\u7ec8\u6781\u7279\u8d28\u56fe\u6807", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 27, 
+            "type": 14, 
+            "value": 134277990
         }
     }, 
     "level": 1, 
@@ -278,15 +523,12 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "preview_billboard_health_value": 1000.0, 
+    "preview_billboard_health_value": 10000.0, 
     "refresh_interval": 1.0, 
     "research_techs": {
         "__tuple__": true, 
         "items": []
     }, 
-    "resilience": 0.0, 
-    "resilience_grow": 0.0, 
-    "reward_5XIVIS9nEe6XXuRU6OKcsI": 0.0, 
     "reward_exp": 5, 
     "reward_official_res_1": 0.0, 
     "reward_rXQT0TZgEe6MIORU6OKcsB": 0.0, 
@@ -300,10 +542,8 @@
     "separate_enemy_icon": false, 
     "shop_camp_args": 3, 
     "shop_range": 10.0, 
-    "shop_select": false, 
     "shop_sell_type": 0, 
     "show_y3_extra_info": false, 
-    "silver coin": 0, 
     "simple_common_atk": {
         "ability_animations": [
             "attack1"
@@ -381,7 +621,6 @@
     "vision_true": 0.0, 
     "vision_true_grow": 0, 
     "walk_anim": "walk", 
-    "width_num": -1, 
     "width_offset": 0, 
     "yd8lISd3Ee6TguRU6OKcsL": 10.0, 
     "yd8lISd3Ee6TguRU6OKcsL_grow": 0

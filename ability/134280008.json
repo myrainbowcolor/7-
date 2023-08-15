@@ -804,6 +804,18 @@
                                                                                                                                                 {
                                                                                                                                                     "args_list": [
                                                                                                                                                         {
+                                                                                                                                                            "arg_type": 100014, 
+                                                                                                                                                            "args_list": [], 
+                                                                                                                                                            "sub_type": "CUR_ABILITY"
+                                                                                                                                                        }
+                                                                                                                                                    ], 
+                                                                                                                                                    "condition_type": "TYPE_IS_EXIST", 
+                                                                                                                                                    "element_id": 35979266001906, 
+                                                                                                                                                    "enable": true
+                                                                                                                                                }, 
+                                                                                                                                                {
+                                                                                                                                                    "args_list": [
+                                                                                                                                                        {
                                                                                                                                                             "arg_type": 100000, 
                                                                                                                                                             "args_list": [
                                                                                                                                                                 [
@@ -842,6 +854,31 @@
                                                                                                                                                     ], 
                                                                                                                                                     "condition_type": "FLOAT_COMPARE", 
                                                                                                                                                     "element_id": 35979266000726, 
+                                                                                                                                                    "enable": true
+                                                                                                                                                }, 
+                                                                                                                                                {
+                                                                                                                                                    "args_list": [
+                                                                                                                                                        {
+                                                                                                                                                            "arg_type": 100021, 
+                                                                                                                                                            "args_list": [
+                                                                                                                                                                {
+                                                                                                                                                                    "args_list": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "arg_type": 100006, 
+                                                                                                                                                                            "args_list": [], 
+                                                                                                                                                                            "sub_type": "ABILITY_OWNER"
+                                                                                                                                                                        }
+                                                                                                                                                                    ], 
+                                                                                                                                                                    "condition_type": "TYPE_IS_EXIST", 
+                                                                                                                                                                    "element_id": 35979266001913, 
+                                                                                                                                                                    "enable": true
+                                                                                                                                                                }
+                                                                                                                                                            ], 
+                                                                                                                                                            "sub_type": 1
+                                                                                                                                                        }
+                                                                                                                                                    ], 
+                                                                                                                                                    "condition_type": "NOT", 
+                                                                                                                                                    "element_id": 35979266001909, 
                                                                                                                                                     "enable": true
                                                                                                                                                 }, 
                                                                                                                                                 {

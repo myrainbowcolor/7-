@@ -195,6 +195,17 @@
             "type": 1, 
             "value": 300.0
         }, 
+        "isAttackAccompany": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 4, 
+            "key": "isAttackAccompany", 
+            "prop_cls": "PBool", 
+            "remark": "", 
+            "sort": 7, 
+            "type": 3, 
+            "value": false
+        }, 
         "isRelife": {
             "annotation": "", 
             "desc": "", 

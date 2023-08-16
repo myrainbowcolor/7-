@@ -149,12 +149,9 @@
                 "INTEGER": {
                     "\u91d1\u5e01": 0
                 }, 
-                "UNIT_ENTITY": {
-                    "unitTemp": 0
-                }
+                "UNIT_ENTITY": {}
             }, 
             "variable_length_dict": {
-                "unitTemp": 0, 
                 "\u91d1\u5e01": 0
             }
         }, 
@@ -186,9 +183,7 @@
                     "pointId": "", 
                     "skillTypeId": "", 
                     "unitTypeId": "", 
-                    "waveAreaId": "", 
-                    "x": "", 
-                    "y": ""
+                    "waveAreaId": ""
                 }, 
                 "TABLE": {
                     "maxRefreshNumber": null, 
@@ -216,8 +211,6 @@
                 "unit": 0, 
                 "unitTypeId": 0, 
                 "waveAreaId": 0, 
-                "x": 0, 
-                "y": 0, 
                 "\u5173\u5361": 0, 
                 "\u5f53\u524d\u6ce2\u6b21": 0
             }
@@ -429,6 +422,21 @@
                 "skill_sc": 10
             }
         }, 
+        "435560551": {
+            "variable_dict": {
+                "POINT": {}, 
+                "PROJECTILE_ENTITY": {
+                    "result": 0
+                }, 
+                "STRING": {
+                    "\u5b57\u7b26\u4e32ID": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "result": 0, 
+                "\u5b57\u7b26\u4e32ID": 0
+            }
+        }, 
         "451649592": {
             "variable_dict": {
                 "UNIT_ENTITY": {
@@ -481,6 +489,14 @@
                     "\u6240\u5c5e\u73a9\u5bb6": 0
                 }, 
                 "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
                     "summonPointTemp": {
                         "__tuple__": true, 
                         "items": [
@@ -503,6 +519,7 @@
             }, 
             "variable_length_dict": {
                 "i": 0, 
+                "point": 0, 
                 "summonPointTemp": 0, 
                 "summonUnitTemp": 0, 
                 "\u4e2a\u6570": 0, 
@@ -756,13 +773,10 @@
                     "waveArea": 0
                 }, 
                 "TABLE": {}, 
-                "UNIT_ENTITY": {
-                    "unitTemp": 0
-                }
+                "UNIT_ENTITY": {}
             }, 
             "variable_length_dict": {
                 "tableLength": 0, 
-                "unitTemp": 0, 
                 "waveArea": 0
             }
         }, 
@@ -834,11 +848,13 @@
                     "effect": 0
                 }, 
                 "TABLE": {
-                    "curEndCount": null
+                    "curEndCount": null, 
+                    "curLevelTable": null
                 }
             }, 
             "variable_length_dict": {
                 "curEndCount": 0, 
+                "curLevelTable": 0, 
                 "effect": 0, 
                 "lockArea": 0
             }
@@ -1246,25 +1262,16 @@
         }, 
         "1478791270": {
             "variable_dict": {
-                "FLOAT": {
-                    "\u6301\u7eed\u65f6\u95f4": 0.0
-                }, 
+                "FLOAT": {}, 
                 "INTEGER": {}, 
                 "ROUND_AREA": {
                     "\u7ec8\u70b9\u533a\u57df": 0, 
                     "\u8d77\u70b9\u533a\u57df": 0
                 }, 
-                "SFX_ENTITY": {
-                    "effectBegin": 0
-                }, 
-                "UNIT_GROUP": {
-                    "unitGroup": []
-                }
+                "SFX_ENTITY": {}, 
+                "UNIT_GROUP": {}
             }, 
             "variable_length_dict": {
-                "effectBegin": 0, 
-                "unitGroup": 0, 
-                "\u6301\u7eed\u65f6\u95f4": 0, 
                 "\u7ec8\u70b9\u533a\u57df": 0, 
                 "\u8d77\u70b9\u533a\u57df": 0
             }
@@ -1540,6 +1547,12 @@
                 "p": 0
             }
         }, 
+        "2125119586": {
+            "variable_dict": {
+                "UNIT_ENTITY": {}
+            }, 
+            "variable_length_dict": {}
+        }, 
         "2129371193": {
             "variable_dict": {
                 "INTEGER": {
@@ -1566,9 +1579,7 @@
                     "enterCount": 0, 
                     "maxCount": 0
                 }, 
-                "NEW_TIMER": {
-                    "timer": -1
-                }, 
+                "NEW_TIMER": {}, 
                 "POINT": {}, 
                 "ROUND_AREA": {
                     "\u7ec8\u70b9\u533a\u57df": 0, 
@@ -1587,7 +1598,6 @@
                 "effectEnd": 0, 
                 "enterCount": 0, 
                 "maxCount": 0, 
-                "timer": 0, 
                 "trigger": 0, 
                 "unitGroup": 0, 
                 "\u6301\u7eed\u65f6\u95f4": 0, 

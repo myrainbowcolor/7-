@@ -26,32 +26,6 @@
         "11104259": {
             "action": [
                 {
-                    "action_type": "REMOVE_STATE", 
-                    "args_list": [
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100014, 
-                                    "args_list": [], 
-                                    "sub_type": "CUR_ABILITY"
-                                }
-                            ], 
-                            "sub_type": "GET_ABILITY_OWNER"
-                        }, 
-                        {
-                            "arg_type": 100075, 
-                            "args_list": [
-                                8
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 11104259000047, 
-                    "enable": false
-                }, 
-                {
                     "action_type": "STOP_ANIMATION", 
                     "args_list": [
                         {
@@ -198,6 +172,12 @@
                                         {
                                             "arg_type": 100021, 
                                             "args_list": [
+                                                [
+                                                    1480864365, 
+                                                    "\u83ab\u540d\u5176\u5999\u7684\u62a5\u9519", 
+                                                    396640258, 
+                                                    "condition_type"
+                                                ], 
                                                 {
                                                     "args_list": [
                                                         {
@@ -901,32 +881,6 @@
                         true, 
                         true
                     ]
-                }, 
-                {
-                    "action_type": "ADD_STATE", 
-                    "args_list": [
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100014, 
-                                    "args_list": [], 
-                                    "sub_type": "CUR_ABILITY"
-                                }
-                            ], 
-                            "sub_type": "GET_ABILITY_OWNER"
-                        }, 
-                        {
-                            "arg_type": 100075, 
-                            "args_list": [
-                                8
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 662736897000060, 
-                    "enable": false
                 }
             ], 
             "call_enabled": true, 

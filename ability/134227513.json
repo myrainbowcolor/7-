@@ -26,32 +26,6 @@
         "11104259": {
             "action": [
                 {
-                    "action_type": "REMOVE_STATE", 
-                    "args_list": [
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100014, 
-                                    "args_list": [], 
-                                    "sub_type": "CUR_ABILITY"
-                                }
-                            ], 
-                            "sub_type": "GET_ABILITY_OWNER"
-                        }, 
-                        {
-                            "arg_type": 100075, 
-                            "args_list": [
-                                8
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 11104259000047, 
-                    "enable": false
-                }, 
-                {
                     "action_type": "STOP_ANIMATION", 
                     "args_list": [
                         {
@@ -204,10 +178,22 @@
                                                             "arg_type": 100006, 
                                                             "args_list": [], 
                                                             "sub_type": "ABILITY_OWNER"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100035, 
+                                                            "args_list": [
+                                                                "!="
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100006, 
+                                                            "args_list": [], 
+                                                            "sub_type": "NONE_UNIT"
                                                         }
                                                     ], 
-                                                    "condition_type": "TYPE_IS_EXIST", 
-                                                    "element_id": 396640258970019, 
+                                                    "condition_type": "UNIT_COMPARE", 
+                                                    "element_id": 396640258970017, 
                                                     "enable": true
                                                 }
                                             ], 
@@ -889,32 +875,6 @@
                         true, 
                         true
                     ]
-                }, 
-                {
-                    "action_type": "ADD_STATE", 
-                    "args_list": [
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100014, 
-                                    "args_list": [], 
-                                    "sub_type": "CUR_ABILITY"
-                                }
-                            ], 
-                            "sub_type": "GET_ABILITY_OWNER"
-                        }, 
-                        {
-                            "arg_type": 100075, 
-                            "args_list": [
-                                8
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 662736897000060, 
-                    "enable": false
                 }
             ], 
             "call_enabled": true, 

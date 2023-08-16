@@ -7,6 +7,8 @@
         "SCULPTURE"
     ], 
     "projectile_all": [
-        "TIMEBUFFER"
+        "FIREPROJECTILE", 
+        "TIMEBUFFER", 
+        "TRANSFERPROJECTILE"
     ]
 }

@@ -131,6 +131,12 @@
         "item_key": 134256499, 
         "prop_key": "desc"
     }, 
+    "-1257101368": {
+        "editor_type": "projectile_all", 
+        "index_type": "object_editor", 
+        "item_key": 134253475, 
+        "prop_key": "name"
+    }, 
     "-1167483731": {
         "editor_type": "projectile_all", 
         "index_type": "object_editor", 

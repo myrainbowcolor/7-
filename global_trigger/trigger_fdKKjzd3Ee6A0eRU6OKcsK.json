@@ -1,5 +1,131 @@
 {
     "trigger_dict": {
+        "435560551": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "PROJECTILE_ENTITY", 
+                                        "result", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100077, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "GameAPI.get_projectile_by_id(args[1])"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "STRING", 
+                                                        "\u5b57\u7b26\u4e32ID", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 2
+                                        }
+                                    ], 
+                                    "sub_type": "STR_TO_INT"
+                                }, 
+                                null, 
+                                null, 
+                                null, 
+                                null
+                            ], 
+                            "op_arg_enable": [
+                                true, 
+                                false, 
+                                false, 
+                                false, 
+                                false
+                            ], 
+                            "sub_type": "Eval_Lua_PROJECTILE_ENTITY"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 435560551000001, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": 400342, 
+                    "args_list": [
+                        {
+                            "arg_type": 100077, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "PROJECTILE_ENTITY", 
+                                        "result", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 435560551000002, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_category": "t_function", 
+            "func_comment": "", 
+            "func_des": "\u628a\u6295\u5c04\u7269\u7684\u5b57\u7b26\u4e32ID{\u5b57\u7b26\u4e32ID}\u8f6c\u6362\u4e3a\u6295\u5c04\u7269\u5bf9\u8c61", 
+            "func_id": "c199b74f3bda11ee8e5de454e8e29cb0", 
+            "func_name": "\u5b57\u7b26\u4e32\u8f6c\u6295\u5c04\u7269", 
+            "func_param_list": [
+                [
+                    "\u5b57\u7b26\u4e32ID", 
+                    true
+                ]
+            ], 
+            "func_return": true, 
+            "func_rtv_name_list": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u6295\u5c04\u7269", 
+                        "PROJECTILE_ENTITY"
+                    ]
+                }
+            ], 
+            "group_id": "fdKKjzd3Ee6A0eRU6OKcsK", 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "trigger_id": 435560551, 
+            "trigger_name": "\u5b57\u7b26\u4e32\u8f6c\u6295\u5c04\u7269", 
+            "valid": true
+        }, 
         "604934203": {
             "action": [
                 {
@@ -1195,6 +1321,13 @@
                 "items": [
                     761389154, 
                     "\u63d2\u503c"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    435560551, 
+                    "\u5b57\u7b26\u4e32\u8f6c\u6295\u5c04\u7269"
                 ]
             }
         ], 

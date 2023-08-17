@@ -2,6 +2,10 @@
     "1": 1, 
     "5": 1, 
     "6": 0, 
+    "102": 0, 
+    "104": 500, 
+    "107": 0, 
+    "108": 100, 
     "_custom_": true, 
     "_ref_": 134220169, 
     "ability_break_cast_range": {
@@ -18,7 +22,7 @@
             "10"
         ]
     }, 
-    "ability_cast_type": 2, 
+    "ability_cast_type": 3, 
     "ability_channel_time": 0.0, 
     "ability_cost": {
         "__tuple__": true, 
@@ -179,7 +183,7 @@
             "remark": "", 
             "sort": 0, 
             "type": 1, 
-            "value": 800.0
+            "value": 1200.0
         }
     }, 
     "magicbook_list": {

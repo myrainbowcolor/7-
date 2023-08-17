@@ -154,7 +154,7 @@
     "hp_max_grow": 100.0, 
     "hp_rec": 10, 
     "hp_rec_grow": 1, 
-    "icon": 109546, 
+    "icon": 109702, 
     "idle_anim": "idle1", 
     "init_stock": 5, 
     "intelligence": 10.0, 

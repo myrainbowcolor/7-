@@ -161,7 +161,8 @@
                     "skillType": 0
                 }, 
                 "DYNAMIC_TRIGGER_INSTANCE": {
-                    "triggerTemp": 0
+                    "die_trigger": 0, 
+                    "spawn_trigger": 0
                 }, 
                 "FLOAT": {}, 
                 "INTEGER": {
@@ -199,6 +200,7 @@
             }, 
             "variable_length_dict": {
                 "KEY": 0, 
+                "die_trigger": 0, 
                 "i": 0, 
                 "maxRefreshNumber": 0, 
                 "monsterGroup": 0, 
@@ -207,7 +209,7 @@
                 "refreshCount": 0, 
                 "skillType": 0, 
                 "skillTypeId": 0, 
-                "triggerTemp": 0, 
+                "spawn_trigger": 0, 
                 "unit": 0, 
                 "unitTypeId": 0, 
                 "waveAreaId": 0, 
@@ -844,9 +846,7 @@
                 "RECTANGLE": {
                     "lockArea": 0
                 }, 
-                "SFX_ENTITY": {
-                    "effect": 0
-                }, 
+                "SFX_ENTITY": {}, 
                 "TABLE": {
                     "curEndCount": null, 
                     "curLevelTable": null
@@ -855,7 +855,6 @@
             "variable_length_dict": {
                 "curEndCount": 0, 
                 "curLevelTable": 0, 
-                "effect": 0, 
                 "lockArea": 0
             }
         }, 
@@ -1586,8 +1585,7 @@
                     "\u8d77\u70b9\u533a\u57df": 0
                 }, 
                 "SFX_ENTITY": {
-                    "effectBegin": 0, 
-                    "effectEnd": 0
+                    "effectBegin": 0
                 }, 
                 "UNIT_GROUP": {
                     "unitGroup": []
@@ -1595,7 +1593,6 @@
             }, 
             "variable_length_dict": {
                 "effectBegin": 0, 
-                "effectEnd": 0, 
                 "enterCount": 0, 
                 "maxCount": 0, 
                 "trigger": 0, 

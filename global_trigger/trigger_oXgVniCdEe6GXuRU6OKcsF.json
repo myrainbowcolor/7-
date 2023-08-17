@@ -198,7 +198,7 @@
                                                 }
                                             ], 
                                             "op_arg_enable": [
-                                                true
+                                                false
                                             ], 
                                             "sub_type": "7297c5e1377311eebce1e454e8e29cb0"
                                         }
@@ -227,22 +227,6 @@
                     "bp": false, 
                     "element_id": 77205514000055, 
                     "enable": true
-                }, 
-                {
-                    "action_type": "CALL_TRIGGER_FUNC", 
-                    "args_list": [
-                        {
-                            "arg_type": 100177, 
-                            "args_list": [], 
-                            "op_arg": [], 
-                            "op_arg_enable": [], 
-                            "sub_type": "b4a86b402a0a11eeaab5e454e8e29cb0"
-                        }
-                    ], 
-                    "bp": false, 
-                    "call_rt_arg_idxes": [], 
-                    "element_id": 77205514000014, 
-                    "enable": false
                 }
             ], 
             "call_enabled": true, 
